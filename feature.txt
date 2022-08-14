@@ -2,3 +2,5 @@ This is my new feature
 log in page to be added
 MFA should be activated
 Feature 2 should planned and deployed - feature branch cadd
+new feature to should be planned and analysed - master add
+
